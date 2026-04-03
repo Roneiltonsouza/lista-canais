@@ -77,3 +77,41 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Canais Ao Vivo",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+#EXTINF:-1 tvg-id="TastemadeBrasil.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Canais Ao Vivo",Tastemade (720p)
+https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
+#EXTINF:-1 tvg-id="MasterChef.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Canais Ao Vivo",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:-1 tvg-id="MTVComoEx.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Series",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Series",Comedy Central South Park
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:-1 tvg-id="KenanKel.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Series",Kenan & Kel
+https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Comedy",Comedy Central Pluto TV
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
+#EXTINF:-1 tvg-id="FailArmy.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Comedy",FailArmy
+https://jmp2.uk/plu-5f5141c1605ddf000748eb1b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Documentary",Pluto TV Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+#EXTINF:-1 tvg-id="Naruto.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="kids",Naruto
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Kids",Nickelodeon Clássico (720p)
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 tvg-id="NickOnline.br@SD" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Kids",NickOnline (576p)
+https://x1co.com.br:8443/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BabyFirst.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Kids",Babyfirst
+https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
+#EXTINF:-1 tvg-id="NickClassico.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png
+" group-title="Kids",Nickelodeon Clássico (720p)
+https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
+#EXTINF:-1 tvg-id="OReinoInfantil.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Kids",O Reino Infantil
+https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
+#EXTINF:-1 tvg-id="PlutoTVJunior.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Kids",Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+#EXTINF:-1 tvg-id="TurmadaMonica.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Kids",Turma da Mônica (720p)
+https://jmp2.uk/plu-5f997e44949bc70007a6941e.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Kids;Religious",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.us@Brazil" tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Family",The Pet Collective (720p)
+https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
+
