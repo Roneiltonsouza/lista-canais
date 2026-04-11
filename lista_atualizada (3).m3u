@@ -4,23 +4,24 @@ https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", Record TV conquista
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1162632727.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", SBT
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", SBT SP
 https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta",  Band
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/8c983c93-558a-45b1-b3a0-86ab4136ad12.png" group-title="Vidyou tv Aberta", Rede TV
+https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w318899307.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", Rede TV
 https://live.eu-north-1b.cf.dmcdn.net/sec2(2DuJ4cNnfJt-z7PF5wOOqaCajPXkdqR-nlRRZV8kvtd38vZqHvRApadd7Gp8dTYNZTJmXN6xvNRJYN9cIPP8bBXe-mUOwFJAmYbTuuEXDUpSuGrNuNN3eW64j7ONNKKZ)/dm/3/x8xps0s/d/live-380.m3u8#cell=lcf-eu-north-1b
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", TV Diário do serão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/bb7af62c-69ea-4c6c-9f41-1b2ccdb65723.jpg" group-title="Vidyou tv Aberta",Geekdot (720p)
-https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/8c983c93-558a-45b1-b3a0-86ab4136ad12.png" group-title="Vidyou tv Aberta", Rede TV
-https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w318899307.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/70454b97-6860-4268-a556-1219f96fa569.jpg" group-title="Vidyou tv Aberta",TV Aparecida (1080p)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/44570c8c-7582-4216-87dd-147e6e7b448e.jpg" group-title="Vidyou tv Aberta",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/bb7af62c-69ea-4c6c-9f41-1b2ccdb65723.jpg" group-title="Vidyou tv Aberta",Geekdot (720p)
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", moviespherebrazil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", MyTime Movie Network | Brasil
