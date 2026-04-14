@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", TV Record 
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/b1f2bcac-3982-422e-aaa8-bf9d63511286.jpg" group-title="Vidyou tv Aberta", TV Record 
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", Record TV conquista
-https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1162632727.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", SBT interior player1
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/55020dc0-884d-45cc-bd69-8fabd9dd50b3.jpg" group-title="Vidyou tv Aberta", TV conquista
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/f93bc057-5264-42a9-9f4d-6de4fb930f36.png" group-title="Vidyou tv Aberta", SBT interior player1
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", SBT SP player2
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/f93bc057-5264-42a9-9f4d-6de4fb930f36.png" group-title="Vidyou tv Aberta", SBT SP player2
 https://aovivo.maissbt.com/channel_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta",  Band
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/b70ad73e-3536-4b66-bc38-c08f5363ea1a.jpg" group-title="Vidyou tv Aberta",  Band
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/8c983c93-558a-45b1-b3a0-86ab4136ad12.png" group-title="Vidyou tv Aberta", Rede TV
 https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w318899307.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", TV Diário do serão
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/e2399278-1352-47ce-8c27-4eea51a84a4e.jpg" group-title="Vidyou tv Aberta", TV Diário do serão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/70454b97-6860-4268-a556-1219f96fa569.jpg" group-title="Vidyou tv Aberta",TV Aparecida (1080p)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
@@ -45,6 +45,8 @@ https://x1co.com.br:8443/hls/stream.m3u8
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", Redeistv
+https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1162632727.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Boas Novas (1080p)
