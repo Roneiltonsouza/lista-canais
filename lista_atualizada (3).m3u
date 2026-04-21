@@ -19,6 +19,8 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/bb7af62c-69ea-4c6c-9f41-1b2ccdb65723.jpg" group-title="Vidyou tv Aberta",Geekdot (720p)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/bf0afe9c-d1ba-4e08-8629-c32fd08f1621.jpg" group-title="Vidyou tv Aberta",megaonetv
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", moviespherebrazil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", MyTime Movie Network | Brasil
