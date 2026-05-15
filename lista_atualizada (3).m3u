@@ -1,114 +1,112 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/b1f2bcac-3982-422e-aaa8-bf9d63511286.jpg" group-title="Vidyou tv Aberta", TV Record 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JWVBf3xc/128572.jpg" group-title="Vidyou tv Aberta", TV Record 
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/55020dc0-884d-45cc-bd69-8fabd9dd50b3.jpg" group-title="Vidyou tv Aberta", TV conquista
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sp6kpMg1/128056.jpg" group-title="Vidyou tv Aberta", TV conquista
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/f93bc057-5264-42a9-9f4d-6de4fb930f36.png" group-title="Vidyou tv Aberta", SBT interior player1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8mH3S1S/146524.jpg" group-title="Vidyou tv Aberta", SBT interior player1
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/f93bc057-5264-42a9-9f4d-6de4fb930f36.png" group-title="Vidyou tv Aberta", SBT SP player2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n8mH3S1S/146524.jpg" group-title="Vidyou tv Aberta", SBT SP player2
 https://aovivo.maissbt.com/channel_720.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/b70ad73e-3536-4b66-bc38-c08f5363ea1a.jpg" group-title="Vidyou tv Aberta",  Band
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yn8mTtQ3/146526.jpg" group-title="Vidyou tv Aberta",  Band
 https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/8c983c93-558a-45b1-b3a0-86ab4136ad12.png" group-title="Vidyou tv Aberta", Rede TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mCpd5qt1/128018.png" group-title="Vidyou tv Aberta", Rede TV
 https://tv01.zas.media:1936/redetvparana/redetvparana/chunklist_w318899307.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/e2399278-1352-47ce-8c27-4eea51a84a4e.jpg" group-title="Vidyou tv Aberta", TV Diário do serão
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjS2ZL3y/132517.jpg" group-title="Vidyou tv Aberta", TV Diário do serão
 https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/70454b97-6860-4268-a556-1219f96fa569.jpg" group-title="Vidyou tv Aberta",TV Aparecida (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0RjP8Fbc/128578.jpg" group-title="Vidyou tv Aberta",TV Aparecida (1080p)
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/44570c8c-7582-4216-87dd-147e6e7b448e.jpg" group-title="Vidyou tv Aberta",TV Padre Cicero (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1tqFHLQ7/128579.jpg" group-title="Vidyou tv Aberta",TV Padre Cicero (720p)
 https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/bb7af62c-69ea-4c6c-9f41-1b2ccdb65723.jpg" group-title="Vidyou tv Aberta",Geekdot (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1t4tKCj4/128574.jpg" group-title="Vidyou tv Aberta",Geekdot (720p)
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/bf0afe9c-d1ba-4e08-8629-c32fd08f1621.jpg" group-title="Vidyou tv Aberta",megaonetv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LTb9t7X/134475.jpg" group-title="Vidyou tv Aberta",megaonetv
 https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", moviespherebrazil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k21TFjxw/146555.jpg" group-title="Vidyou tv Aberta", moviespherebrazil
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", MyTime Movie Network | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", MyTime Movie Network | Brasil
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", RunTime | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", 1 RunTime Ação | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", 1 RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", 2 RunTime Ação | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", 2 RunTime Ação | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6128
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", RunTime CinEspanto | Suspense e Terror | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime CinEspanto | Suspense e Terror | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", RunTime Comédia | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime Comédia | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", RunTime Crime | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime Crime | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", RunTime Família | Brasil
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime Família | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/de672f3c-f408-4099-bdad-75fd629e971b.jpg" group-title="Vidyou tv Aberta", RunTime Romance | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Kids",NickOnline
-https://x1co.com.br:8443/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",UNISUL TV (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime Romance | Brasil
+https://stream.ads.ottera.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Adesso TV (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",Adesso TV (720p)
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou tv Aberta", Redeistv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou tv Aberta", Redeistv
 https://cdn-tiva-video10-logicahost-com-br.smartbit.co/redeistv/redeistv/chunklist_w1162632727.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Amazon Sat (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",Amazon Sat (1080p)
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Boas Novas (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",Boas Novas (1080p)
 https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Canal Educação (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",Canal Educação (720p)
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Canal Gov (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",Canal Gov (720p)
 https://canalgov-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",Chroma TV (480p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",Chroma TV (480p)
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",SIC TV (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",SIC TV (720p)
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",STZ TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TCM 10 HD (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV A Folha (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV A Folha (720p)
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Aldeia (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Aldeia (720p)
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Aliança Catarinense (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Aliança Catarinense (720p)
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Alternativa (410p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Arapuan (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Arapuan (720p)
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Brusque (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Brusque (720p)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Câmara (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Câmara (1080p)
 https://stream3.camara.gov.br/tv1/manifest.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Life America (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Life America (720p)
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Mais Maricá (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Mais Maricá (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Maná Brasil (1080p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Maná Brasil (1080p)
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Marajoara (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Marajoara (720p)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Metropole (720p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Metropole (720p) [Not 24/7]
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Pantanal MS (360p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Pantanal MS (360p) [Not 24/7]
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Paraense (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Paraense (720p)
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Sim São Mateus (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Sim São Mateus (720p)
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Sul de Minas (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Sul de Minas (720p)
 https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades
 ",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Vila Real (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TV Zoom (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TV Zoom (720p)
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TVC-Rio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TVC-Rio
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TVCOM DF (360p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TVCOM DF (360p)
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TVCOM Maceió (480p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TVCOM Maceió (480p)
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.supaimg.com/6ce5a4d0-a717-4695-8947-6df309d71c4a/259bc3ac-b886-4a36-947b-6813cdf64994.png" group-title="Vidyou Variedades",TVNBN (720p)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",TVNBN (720p)
 https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
