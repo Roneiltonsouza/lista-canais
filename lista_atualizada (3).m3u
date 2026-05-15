@@ -40,7 +40,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime Família | Brasil
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2YpThWjL/129007.jpg" group-title="Vidyou tv Aberta", RunTime Romance | Brasil
-https://stream.ads.ottera.tv/playlist.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",UNISUL TV (720p)
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3ymPTTsG/131328.jpg" group-title="Vidyou Variedades",Adesso TV (720p)
