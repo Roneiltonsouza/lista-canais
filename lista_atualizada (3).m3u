@@ -3,8 +3,6 @@
 https://cdn-sp2.satlabscloud.com.br/HBO/720p.m3u8?token=ulDZjn1kAAan1kzoXmUL1B84gijOI6v7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz6gHmKm/156760.jpg" group-title="Vidyou tv Aberta", globo sp
 https://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JWVBf3xc/128572.jpg" group-title="Vidyou tv Aberta", TV Record 
-https://anym3u8player.com/tv/p.php?url=https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/sp6kpMg1/128056.jpg" group-title="Vidyou tv Aberta", TV conquista
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8mH3S1S/146524.jpg" group-title="Vidyou tv Aberta", SBT interior player1
